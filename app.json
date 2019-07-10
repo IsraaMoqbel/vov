@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "vov",
-    "slug": "The VOV Deals app makes it easy to find the best deals in market, anywhere, anytime.",
+    "slug": "vov",
     "privacy": "public",
     "sdkVersion": "33.0.0",
     "platforms": [
